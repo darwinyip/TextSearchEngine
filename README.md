@@ -10,8 +10,8 @@ Python 2.7
 ## Usage
 Print top 10 most frequently occuring words in files:
 
-`python doc_indexer.py -i 0.txt 1.txt 2.txt 3.txt 4.txt -t 10`
+`python text_search_engine.py -i 0.txt 1.txt 2.txt 3.txt 4.txt -t 10`
 
 Find the word "river" in index:
 
-`python doc_indexer.py -i 0.txt 1.txt 2.txt 3.txt 4.txt -f river`
+`python text_search_engine.py -i 0.txt 1.txt 2.txt 3.txt 4.txt -f river`
